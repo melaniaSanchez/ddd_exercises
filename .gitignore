@@ -1,0 +1,30 @@
+#
+# Project specific excludes
+#
+
+tomcat
+
+#
+# Default excludes
+#
+
+# Binaries
+*.class
+
+# Maven
+target/
+
+# IntelliJ project files
+*.iml
+.idea/
+
+# eclipse project file
+.settings/
+.classpath
+.project
+
+# NetBeans specific
+build/
+
+# OS
+.DS_Store
